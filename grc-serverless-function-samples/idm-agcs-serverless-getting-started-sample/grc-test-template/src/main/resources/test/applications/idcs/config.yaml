@@ -1,0 +1,12 @@
+authenticationDetail:
+  scheme: "https"
+  host: "<<IDCS_AUTH_API_HOST_1>>"
+  path: "/oauth2/v1/token"
+  method: "POST"
+  grantType: "client_credentials"
+  scope: "urn:opc:idm:__myscopes__"
+  secretId: "<<SECRET_ID_1>>"
+  region: "<<REGION>>"
+applicationInstanceDetail:
+  scheme: "https"
+  host: "<<IDCS_API_HOST_1>>"
