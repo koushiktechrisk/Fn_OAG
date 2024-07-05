@@ -23,10 +23,16 @@
         <ociSdkVersion>2.72.0</ociSdkVersion>
     </properties>
 
+
+  <!--Based on the provided Maven project configuration file, here's the project information:-->
+  
     <groupId>org.identityconnectors</groupId>
     <artifactId>commons</artifactId>
     <version>1.0.0</version>
 
+
+<!-- This information identifies the project uniquely and specifies the Java version required to compile its source code. -->
+  
 
     <dependencies>
         <dependency>
